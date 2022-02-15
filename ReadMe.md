@@ -12,3 +12,9 @@
 
 
 **Run npm start to start the APP**
+
+
+**postman documentation Link -> https://www.getpostman.com/collections/c5396ce4bd578d964840**
+
+
+**Heroku baseurl -> https://mollo-test.herokuapp.com**
